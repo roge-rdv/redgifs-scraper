@@ -1,4 +1,8 @@
-# RedGifs Scraper
+<h1 align="center">
+    <span style="background: linear-gradient(45deg, #ff0000, #000000); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+        RedGifs Scraper
+    </span>
+</h1>
 
 Um script para scraping e download de vídeos do RedGifs usando Selenium e Node.js.
 
