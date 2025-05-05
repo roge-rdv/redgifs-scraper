@@ -1,5 +1,19 @@
 {
+  "name": "redgifs-scraper",
+  "version": "1.0.0",
+  "description": "Um script para scraping e download de vídeos do RedGifs usando Selenium e Node.js",
+  "type": "module",
+  "main": "downloader.js",
+  "scripts": {
+    "start": "python scraper.py",
+    "download": "node downloader.js"
+  },
+  "author": "",
+  "license": "MIT",
   "dependencies": {
-    "redgif": "^0.1.6"
+    "redgif": "latest"
+  },
+  "engines": {
+    "node": ">=14.16"
   }
 }

@@ -23,7 +23,7 @@ Um script para scraping e download de vídeos do RedGifs usando Selenium e Node.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/roge-rdv/redgifs-scraper.git
+   git clone https://github.com/seu-usuario/redgifs-scraper.git
    cd redgifs-scraper
    ```
 
